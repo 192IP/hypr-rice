@@ -1,0 +1,48 @@
+@import url("file:///home/nix/.cache/wal/colors.css");
+
+window {
+  background-color: #0e0d10;
+}
+
+* {
+  font-family: "Jetbrains Mono";
+  color: #fff;
+}
+
+#scroll {
+  padding: 0.5rem;
+}
+
+#input {
+  background-color: #0e0d10;
+  color: #ebe1df;
+  outline: none;
+  box-shadow: none;
+  border: 0;
+  border-radius: 0;
+  font-size: 1rem;
+  padding: 0.5rem;
+}
+
+#inner-box {
+  margin: 0.5rem;
+  font-size: 1rem;
+}
+
+#img {
+  margin: 10px 10px;
+}
+
+#entry {
+  border-radius: 0.5rem;
+}
+
+#entry:selected {
+  background-color: #ebe1df;
+  outline: none;
+}
+
+#text:selected {
+  color: #0e0d10;
+}
+

@@ -1,0 +1,24 @@
+{
+	"windowstate": {
+		"isFullScreen": false,
+		"isMaximized": false,
+		"width": 633,
+		"height": 974,
+		"x": 642,
+		"y": 45,
+		"frame": true,
+		"screenLayout": "0:0:1280:1024"
+	},
+	"workspaces": [
+		{
+			"x": 642,
+			"y": 45,
+			"width": 633,
+			"height": 974,
+			"isMaximized": false,
+			"isFullScreen": false,
+			"file": "/mnt/sdb/Arduino/velocp/sketch_jan6a",
+			"time": 1736257984713
+		}
+	]
+}

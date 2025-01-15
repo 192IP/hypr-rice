@@ -1,0 +1,35 @@
+[core]
+# Разрешение экрана (оставь пустым, чтобы Waylock автоматически определял размеры)
+resolution = auto
+
+# Уровень размытия (чем больше число, тем сильнее размытие)
+blur_strength = 10
+
+# Цвет текста пароля
+text_color = #ffffff
+
+# Цвет индикатора правильного ввода пароля
+indicator_color_correct = #00ff00
+
+# Цвет индикатора неправильного ввода пароля
+indicator_color_wrong = #ff0000
+
+[appearance]
+# Цвет фона, если размытие не работает (например, fallback)
+background_color = #000000
+
+# Шрифт текста
+font = Monospace
+
+# Размер текста
+font_size = 18
+
+# Показывать индикатор попыток ввода
+show_indicator = true
+
+[input]
+# Включить ввод пароля
+enable_password = true
+
+# Команда для перехода в спящий режим (системный режим ожидания)
+sleep_command = systemctl suspend

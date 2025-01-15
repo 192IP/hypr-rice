@@ -1,0 +1,14 @@
+# settings
+
+(GimpGegl-gegl-shift-config "2025-01-13 19:13:56"
+    (time 1736784836)
+    (shift 12)
+    (direction horizontal)
+    (seed 1064992742))
+(GimpGegl-gegl-shift-config "2025-01-03 16:39:43"
+    (time 1735911583)
+    (shift 6)
+    (direction horizontal)
+    (seed 1898956460))
+
+# end of settings

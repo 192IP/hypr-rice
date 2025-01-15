@@ -1,0 +1,9 @@
+# settings
+
+(GimpGegl-gegl-softglow-config "2025-01-03 16:47:18"
+    (time 1735912038)
+    (glow-radius 25.641999999999999)
+    (brightness 0.089999999999999997)
+    (sharpness 1))
+
+# end of settings

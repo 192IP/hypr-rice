@@ -1,0 +1,15 @@
+# GIMP user context
+
+(tool "gimp-operation-tool")
+(paint-info "gimp-paintbrush")
+(foreground (color-rgb 0.031372550874948502 0.011764707043766975 0.023529414087533951))
+(brush "2. Hardness 050")
+(dynamics "Dynamics Off")
+(mybrush "100% Opaque")
+(pattern "Pine")
+(gradient "Standard")
+(palette "Standard")
+(font "Sans-serif")
+(tool-preset "Core Pointer")
+
+# end of user context

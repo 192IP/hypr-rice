@@ -1,0 +1,14 @@
+# settings
+
+(GimpGegl-gegl-noise-hurl-config "2025-01-02 19:40:37"
+    (time 1735836037)
+    (pct-random 4.6500000000000004)
+    (repeat 1)
+    (seed 0))
+(GimpGegl-gegl-noise-hurl-config "2025-01-02 19:31:10"
+    (time 1735835470)
+    (pct-random 0.44999999999999996)
+    (repeat 1)
+    (seed 0))
+
+# end of settings

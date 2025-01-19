@@ -8,32 +8,32 @@
 #custom-notification {
   font-family: "JetBrainsMono Nerd Font";
   font-size: 17px;
- color: #E9A962;
+ color: #dedfe3;
  margin: 2px 0px 0px 0px;
 }
 
 window#waybar {
-    background: #180D1E; 
+    background: #0a1012; 
   /*  border-radius: 15px; */
  /*  border: 2px solid #124323; */
-/* border: 0px solid #E9A962; */
- border: 3px solid rgba(255, 255, 255, 0.1);
+/* border: 0px solid #dedfe3; */
+ border: 2px solid rgba(255, 255, 255, 0.1);
  border-radius: 3px;
 }
 
 
 tooltip {
         background: #171717;
-        color: #E9A962;
+        color: #dedfe3;
         font-size: 13px;
         border-radius: 7px;
-       border: 2px solid #101a24;
+       border: 2px solid #dedfe3;
 
 
     }
 #workspaces{
 background: rgba(23, 23, 23, 0.0);
-    color: #f6e3ca;
+    color: #dfe1e8;
     box-shadow: none;
 	text-shadow: none;
     border-radius: 9px;
@@ -46,7 +46,7 @@ background: rgba(23, 23, 23, 0.0);
 
 #workspaces button {
 background: rgba(23, 23, 23, 0.0);
-    color: #E9A962;
+    color: #dedfe3;
     box-shadow: none;
 	text-shadow: none;
     border-radius: 9px;
@@ -62,7 +62,7 @@ background: rgba(23, 23, 23, 0.0);
 
  
   /* background-image: url("/home/anik/Documents/bar1.png");*/
-    color: #E9A962;   
+    color: #dedfe3;   
     transition: all 0.3s ease;
     padding-left: 4px;
     padding-right: 4px;
@@ -188,7 +188,7 @@ background: @bar-bg;
 
 }
 #clock{
-    color: #E9A962;
+    color: #dedfe3;
     font-size: 15px;
     font-weight: 900;
     font-family: "JetBrainsMono Nerd Font";
@@ -249,7 +249,7 @@ animation: repeat;
     }
 }
 #network{
-color: #E9A962;
+color: #dedfe3;
 font-weight: normal;
 font-size: 19px;
 padding-right: 0px;
@@ -272,7 +272,7 @@ margin: 0px 0px 0px 0px;
 #custom-wallchange,
 #custom-wbar,
 #window{
-color: #E9A962;
+color: #dedfe3;
 font-family: "Martian Mono";
 }
 #custom-l_end,
@@ -303,7 +303,7 @@ font-weight: normal;
 
 #backlight-slider slider,
 #pulseaudio-slider slider {
-  background: #E9A962;
+  background: #dedfe3;
   background-color: transparent;
   box-shadow: none;
   margin-right: 7px;
@@ -381,7 +381,7 @@ font-weight: normal;
 
 #custom-expand {
     min-width: 25px;
-    color: #E9A962;
+    color: #dedfe3;
     font-size: 16px;
 }
 

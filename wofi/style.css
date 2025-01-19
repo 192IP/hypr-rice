@@ -1,7 +1,7 @@
-@import url("file:///home/nix/.cache/wal/colors.css");
+@import url("file:///home/arch/.cache/wal/colors.css");
 
 window {
-  background-color: #180D1E;
+  background-color: #0a1012;
 }
 
 * {
@@ -14,7 +14,7 @@ window {
 }
 
 #input {
-  background-color: #180D1E;
+  background-color: #0a1012;
   color: #ebe1df;
   outline: none;
   box-shadow: none;
@@ -43,6 +43,6 @@ window {
 }
 
 #text:selected {
-  color: #180D1E;
+  color: #0a1012;
 }
 
